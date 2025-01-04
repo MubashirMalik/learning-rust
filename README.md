@@ -1,7 +1,7 @@
 # Notes
 
 ### Rust
-- an ahead-of-time compiled language unlike dynamic languages like JS, Python or Ruby
+- An ahead-of-time compiled language unlike dynamic languages like JS, Python or Ruby
 
 ### Conventions
 - Use hello_world.rs rather than helloworld.rs.
