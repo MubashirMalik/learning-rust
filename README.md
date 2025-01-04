@@ -7,7 +7,7 @@
 - Use hello_world.rs rather than helloworld.rs.
 
 ### Commands
-```
+```rust
 // Commands to compile & run:
 1. rustc main.ts
 2. ./main
