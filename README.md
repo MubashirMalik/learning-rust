@@ -7,9 +7,9 @@
 - Use hello_world.rs rather than helloworld.rs.
 
 ### Commands
-```rust
+```console
 // Commands to compile & run:
-1. rustc main.ts
+1. rustc main.rs
 2. ./main
 
 // Create project with cargo
