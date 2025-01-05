@@ -1,6 +1,10 @@
 # Notes
 
+## Chaper #1
+
 ### Rust
+- Statically type language (which means that it must know the
+types of all variables at compile time)
 - an ahead-of-time compiled language unlike dynamic languages like JS, Python or Ruby
 
 ### Conventions
@@ -38,6 +42,12 @@ cargo check
 - manages dependencies
 - packages of code are referred to as crates
 - cargo.toml -> package.json of node
+
+## Chapter 3
+
+- By default, variables are immutable. Why? 
+    - Safety and easy concurrency
+
 
 
 ### Left Chapters
