@@ -3,9 +3,10 @@
 ## Chaper #1
 
 ### Rust
+
+- An ahead-of-time compiled language unlike dynamic languages like JS, Python or Ruby
 - Statically type language (which means that it must know the
 types of all variables at compile time)
-- an ahead-of-time compiled language unlike dynamic languages like JS, Python or Ruby
 
 ### Conventions
 - Use hello_world.rs rather than helloworld.rs.
