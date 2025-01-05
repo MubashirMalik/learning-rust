@@ -44,7 +44,7 @@ cargo check
 - packages of code are referred to as crates
 - cargo.toml -> package.json of node
 
-## Chapter 3
+## Chapter #3
 
 - By default, variables are immutable. Why? 
     - Safety and easy concurrency
